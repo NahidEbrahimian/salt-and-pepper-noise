@@ -20,6 +20,6 @@
 
 ```
 
-- salt and pepper noise to TV screen noise and seve as gif file
+- salt and pepper noise to TV screen and seve as gif file
 
 # ![TV_screen_noise](https://github.com/n-ebrahimian/salt_and_pepper_noise/blob/main/Result/TV_screen_noise.gif)
